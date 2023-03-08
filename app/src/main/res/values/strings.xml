@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ca7FirebaseDB</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="save_to_firebase">Save To Firebase</string>
+</resources>
